@@ -38,13 +38,13 @@ class SceneA extends Phaser.Scene {
     base.health = 10;
     base.activo = true;
     base2.setCollideWorldBounds(true);
-    base2.health = 30;
+    base2.health = 10;
     base2.activo = true;
     base.setCollideWorldBounds(true);
-    base3.health = 30;
+    base3.health = 10;
     base3.activo = true;
     base.setCollideWorldBounds(true);
-    base4.health = 30;
+    base4.health = 10;
     base4.activo = true;
 
 
