@@ -35,7 +35,7 @@ class SceneA extends Phaser.Scene {
     jugador.setCollideWorldBounds(true);
     jugador.health = 4;
     base.setCollideWorldBounds(true);
-    base.health = 30;
+    base.health = 10;
     base.activo = true;
     base2.setCollideWorldBounds(true);
     base2.health = 30;
