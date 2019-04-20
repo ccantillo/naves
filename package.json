@@ -13,7 +13,7 @@
   "author": "carlos",
   "license": "ISC",
   "dependencies": {
-    "phaser": "^3.16.2",
+    "phaser": "^3.16.2"
   },
   "bugs": {
     "url": "https://github.com/ccantillo/naves/issues"
