@@ -8,7 +8,7 @@ class Cargar extends Phaser.Scene {
     this.load.on("complete", () => {
       this.scene.start("sceneA");
     })
-    this.load.image('player', 'assets/PNG/playerShip3_blue2.PNG');
+    this.load.image('player', 'assets/PNG/playerShip1_blue.png');
     this.load.image('base', 'assets/PNG/ufoRed.PNG');
     this.load.image('background', 'assets/Backgrounds/purple.png');
     this.load.image('bala', 'assets/PNG/Lasers/laserBlue032.png');
